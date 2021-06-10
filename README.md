@@ -1,5 +1,5 @@
 # Basic-AI-problem-using-BFS
-solve the standard AI problems using Breadth First Search or Uniform Cost Search in 2 weeks. 
+solve the standard AI problems using Breadth First Search or Uniform Cost Search 
 
 a) 8-puzzle problem
 
